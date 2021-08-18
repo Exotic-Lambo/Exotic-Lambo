@@ -8,7 +8,7 @@
 - I use Visual Studio Code
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Exotic-Lambo&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=111111">
+<img src="https://github-readme-stats.vercel.app/api?username=Exotic-Lambo&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Exotic-Lambo&label=Views&color=blue&style=plastic" alt="Exotic-Lambo" /> </p> 
 
