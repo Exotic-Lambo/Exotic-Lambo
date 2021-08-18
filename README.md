@@ -5,7 +5,7 @@
 - I’m looking to collaborate on nothing as I am a Rookie in coding
 - How to reach me: Why would you reach out a Rookie like me ffs
 - I can help you in almost every Tech stuff (excluding coding)
-- Visual Studio Code
+- I use Visual Studio Code
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Exotic-Lambo&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=111111">
