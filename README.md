@@ -1,4 +1,4 @@
-### Kon'nichiwa, watashi wa ayusshudesu 👋
+### こんにちは、私はアユッシュです👋
 
 - 👀 I’m a Tech Enthusiast and I love trying out new stuff 
 - 🌱 I’m currently learning Web Development
