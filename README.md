@@ -1,4 +1,4 @@
-### こんにちは、私はアユッシュです👋
+### こんにちは、私はアユッシュです👋 
 
 - 👀 I’m a Tech Enthusiast and I love trying out new stuff 
 - 🌱 I’m currently learning Web Development
@@ -8,6 +8,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Exotic-Lambo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+Caution: I don't know japanese
 
 <!---
 Exotic-Lambo/Exotic-Lambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
