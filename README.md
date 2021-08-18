@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Ayush
+### Kon'nichiwa, watashi wa ayusshudesu 👋
+
 - 👀 I’m a Tech Enthusiast and I love trying out new stuff 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on nothing as I am a Rookie in coding
 - 📫 How to reach me: Why would you reach out a Rookie like me ffs
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Exotic-Lambo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!---
 Exotic-Lambo/Exotic-Lambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
