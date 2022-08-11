@@ -1,7 +1,7 @@
 ### Hi, This is Ayush!
 
 - I love trying out new stuff 
-- I’m currently learning Web Development
+- I’m currently learning Python
 - I’m looking to collaborate on nothing as I am a Rookie in coding
 - How to reach me: Why would you reach out a Rookie like me ffs
 - I can help you in almost every Tech stuff (excluding coding)
